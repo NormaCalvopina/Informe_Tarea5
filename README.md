@@ -158,7 +158,7 @@ El voltaje inducido a través de una bobina de alambre es igual al número de vu
 
 ### 3. EXPLICACIÓN O RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-## Resolución de los ejercicios Capítulo 9 
+## Resolución de los ejercicios (Capítulo 9) 
 
 #### SECCIÓN 9–1 Ecuaciones simultáneas en el análisis de circuitos 
 
@@ -333,7 +333,7 @@ Ingreso las ecuaciones en una calculadora y obtengo:
 
 ![image](https://user-images.githubusercontent.com/105259381/177877675-9c6b5972-e571-4a15-a59c-d7ecf8e27c40.png)
 
-## Resolución de los ejercicios Capítulo 10
+## Resolución de los ejercicios (Capítulo 10)
 
 #### SECCIÓN 10–1 El campo magnético
 
