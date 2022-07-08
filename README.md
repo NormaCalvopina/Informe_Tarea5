@@ -417,4 +417,12 @@ No hay voltaje inducido porque el campo magnético no cambia
 ![image](https://user-images.githubusercontent.com/105259381/177886322-bf8e7ae5-155b-489d-8688-0982c7cef34f.png)
 
 
-### 4. VIDEO
+### 4. CONCLUSIONES
+
+
+
+### 5. VIDEO
+
+
+### 6. BIBLIOGRAFÍA
+
