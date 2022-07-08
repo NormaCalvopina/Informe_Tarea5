@@ -8,8 +8,7 @@ Resolución de ejercicios del Libro de Floyd Principios de Circuitos Eléctricos
 
 #### Objetivos Generales
 
-
-
+Conocer los métodos para resolver ecuaciones simultáneas y los principios de un campo magnético y del electromagnetismo, mediante la lectura y análisis de los capítulos 9 y 10 del libro de Floyd "Principios de circuitos eléctricos" (Octava edición), además desarrollar correctamente los ejercicios planteados en cada capítulo y aplicar lo estudiado en el libro.
 
 #### Objetivos Específicos
 
@@ -19,6 +18,11 @@ Resolución de ejercicios del Libro de Floyd Principios de Circuitos Eléctricos
 
 - Utilizar el análisis de lazos y nodos para determinar cantidades desconocidas en un circuito 
 
+- Analizar los principios de un campo magnético y del electromagnetismo y realizar los ejercicios aplicando esos principios
+
+- Describir el principio de operación de varios tipos de dispositivos electromagnéticos 
+
+- Analizar el principio de inducción electromagnética 
 
 
 ### 2. MARCO TEÓRICO
@@ -419,10 +423,19 @@ No hay voltaje inducido porque el campo magnético no cambia
 
 ### 4. CONCLUSIONES
 
+En el método de la corriente en ramas, se aplicó las leyes de Kirchhoff para determinar la corriente en varias ramas de un circuito de múltiples lazos. También se analizó que un lazo es una trayectoria completa para la corriente que circula en un circuito y que, en el método de la corriente en lazos, se determinan las corrientes de lazo, y no las corrientes de rama. En el método del voltaje en nodos, se determinan los voltajes presentes en los nodos independientes de un circuito. 
 
+La inducción electromagnética es importante en un componente eléctrico llamado inductor o bobina. Se investigó que hay dos tipos de imanes son el imán permanente y el electroimán. El imán permanente mantiene un campo magnético constante entre sus dos polos sin que intervenga alguna excitación externa. El electroimán produce un campo magnético sólo cuando circula corriente a través de él. El electroimán es básicamente una bobina de alambre arrollado alrededor de un material de núcleo magnético.
+
+Mediante la lectura se analizó que el relevador es un tipo común de dispositivo electrónico que se utiliza en muchos tipos de aplicaciones de control. Y que, con un relevador, un voltaje más bajo, como el que procede de una batería, se puede utilizar para cambiar a un voltaje mucho más alto, tal como los 110 V de un tomacorriente de ca
+
+Para el método de la corriente en lazos puede ser sistemáticamente aplicado a circuitos que tengan cualquier cantidad de lazos. Desde luego, mientras más lazos haya, más difícil será encontrar la solución, pero se puede facilitar mediante el uso de una calculadora para simplificar en gran medida la resolución de ecuaciones simultáneas. Hay que recordar que las corrientes de lazo no son corrientes físicas reales sino cantidades matemáticas asignadas para propósitos de análisis.
 
 ### 5. VIDEO
 
 
 ### 6. BIBLIOGRAFÍA
+
+Floyd, TL (2007). Principios de circuitos electricos. Monterrey: Pearson Educación
+
 
